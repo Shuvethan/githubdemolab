@@ -9,6 +9,7 @@ def encode(password):
         encoded += str(digit)
     return encoded
 
+#awesome function it works - Lindsay
 
 def decode(password):
     decoded = ""
